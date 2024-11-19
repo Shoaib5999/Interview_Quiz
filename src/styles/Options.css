@@ -1,0 +1,16 @@
+.options {
+  margin: 20px 0;
+}
+
+.option {
+  margin: 10px 0;
+}
+
+.option label {
+  cursor: pointer;
+  color: #333;
+}
+
+input[type="radio"] {
+  margin-right: 10px;
+}

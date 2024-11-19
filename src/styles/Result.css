@@ -1,0 +1,13 @@
+.result {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.result h2 {
+  color: #007bff;
+}
+
+.result p {
+  font-size: 18px;
+  color: #333;
+}
